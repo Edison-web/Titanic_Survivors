@@ -14,7 +14,7 @@
  :gem: Name:
  
  
- :gem: Sex: This refers to whether the person is a *male*:man: or *female*:woman:
+ :gem: Sex: This refers to whether the person is a __male__:man: or __female__:woman:
  
  
  :gem: Age: This shows how old each one on the ship:ship: is.
