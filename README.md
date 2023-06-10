@@ -5,40 +5,40 @@
 
 ## Column names and descriptions:bulb: :
 
- :gem:PassengerId: This is the 
+ :gem: PassengerId: This is the 
  
- :gem:Survived:
+ :gem: Survived:
  
- :gem:Pclass:
+ :gem: Pclass:
  
- :gem:Name:
- 
- 
- :gem:Sex: This refers to whether the person is a *male*:man: or *female*:woman:
+ :gem: Name:
  
  
- :gem:Age: This shows how old each one on the ship:ship: is.
+ :gem: Sex: This refers to whether the person is a *male*:man: or *female*:woman:
  
  
- :gem:SibSp:
+ :gem: Age: This shows how old each one on the ship:ship: is.
  
  
- :gem:Parch:
+ :gem: SibSp:
  
  
- :gem:Ticket: This shows the ticket number the each individual.
+ :gem: Parch:
+ 
+ 
+ :gem: Ticket: This shows the ticket number the each individual.
  
 
- :gem:Fare: This indicates the price (amount of money:pound:) each person paid for the ticket.
+ :gem: Fare: This indicates the price (amount of money:pound:) each person paid for the ticket.
  
  
- :gem:Cabin:
+ :gem: Cabin:
  
  
- :gem:Embarked:
+ :gem: Embarked:
  
  
- :gem:Age Cat.: This shows whether the person is a child, teenager,adult or elderly.
+ :gem: Age Cat.: This shows whether the person is a child, teenager,adult or elderly.
  
 
 ## Research Questions:
