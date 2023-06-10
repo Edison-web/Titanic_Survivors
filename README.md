@@ -30,3 +30,18 @@ This project is aimed at
  Embarked:
  
  Age Cat.: This shows whether the person is a child, teenager,adult or elderly.
+
+
+## Research Questions:
+
+1. How many people were on the ship?
+2. How many men were there?
+3. How many women were there?
+4. How many children survived?
+5. How many teenagers survived
+6. How many adults survived?
+7. How many elderly survived?
+8. How many people survived form each class?
+
+Author :man:
+Edison Denutsui
