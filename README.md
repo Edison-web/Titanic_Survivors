@@ -43,5 +43,5 @@ This project is aimed at
 7. How many elderly survived?
 8. How many people survived form each class?
 
-Author :man:
+Author :man: :
 Edison Denutsui
