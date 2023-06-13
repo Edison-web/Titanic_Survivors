@@ -46,10 +46,14 @@
  1. How many people were on the ship?
  2. How many men were there?
  3. How many women were there?
- 4. How many children survived?
- 5. How many teenagers survived
- 6. How many adults survived?
- 7. How many elderly survived?
+ 4. How many children were on the ship?
+ 5. How many teenagers were on the ship
+ 6. How many adults were on the ship?
+ 7. How many elderly were on the ship?
  8. How many people survived form each class?
+ 9. How many people died versus survived?
+
+### Note:
+Kindly pip install the requirement.txt file in order to avoid getting unnecessary errors.
 ## Author :man: :
 Edison Denutsui
