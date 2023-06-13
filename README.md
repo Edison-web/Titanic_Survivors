@@ -5,13 +5,13 @@
 
 ## Column names and descriptions:bulb: :
 
- :gem: PassengerId: This is the ID given each passenger (This simply shows individual's placement in the book log).
+ :gem: PassengerId: This is the ID given each passenger (This simply shows` individual's placement` in the book log).
  
- :gem: Survived:This column shows whether the person '''survived''' or '''died'''(1 for survived, 0 for died).
+ :gem: Survived:This column shows whether the person ```survived``` or ```died```(1 for survived, 0 for died).
  
  :gem: Pclass:This column indicates the ticket class bought by the passenger(i.e class 1,2 or 3).
  
- :gem: Name: This column shows '''the names of the individuals''' on the ship
+ :gem: Name: This column shows ```the names of the individuals``` on the ship
  
  
  :gem: Sex: This refers to whether the person is a __male__:man: or __female__:woman:
