@@ -1,7 +1,7 @@
 # Titanic_Survivors
 
 ## Description
-    This project is aimed at 
+    This project is aimed at checking the number of people who survived the wreck.
 
 ## Column names and descriptions:bulb: :
 
