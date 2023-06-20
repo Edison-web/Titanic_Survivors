@@ -44,8 +44,8 @@
 ## Research Questions:
 
  1. How many people were on the ship?
- 2. How many men were there?
- 3. How many women were there?
+ 2. How many male were there?
+ 3. How many female were there?
  4. How many children were on the ship?
  5. How many teenagers were on the ship
  6. How many adults were on the ship?
