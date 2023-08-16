@@ -50,7 +50,7 @@
  5. How many teenagers were on the ship
  6. How many adults were on the ship?
  7. How many elderly were on the ship?
- 8. How many people survived form each class?
+ 8. How many people survived from each class?
  9. How many people died versus survived?
 
 ### Note:
